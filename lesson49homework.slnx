@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="lesson49homework/lesson49homework.vcxproj" />
+  <Project Path="task02/task02.vcxproj" />
 </Solution>
